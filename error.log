@@ -1,0 +1,184 @@
+[Mon Feb 24 18:03:14.479604 2020] [mpm_prefork:notice] [pid 1020] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 18:03:14.479674 2020] [core:notice] [pid 1020] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 18:08:42.355203 2020] [mpm_prefork:notice] [pid 1020] AH00169: caught SIGTERM, shutting down
+[Mon Feb 24 18:09:42.548831 2020] [mpm_prefork:notice] [pid 1076] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 18:09:42.550103 2020] [core:notice] [pid 1076] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 20:29:13.317634 2020] [mpm_prefork:notice] [pid 1076] AH00169: caught SIGTERM, shutting down
+[Mon Feb 24 20:29:13.516481 2020] [mpm_prefork:notice] [pid 2628] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 20:29:13.516553 2020] [core:notice] [pid 2628] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 20:51:59.011534 2020] [mpm_prefork:notice] [pid 2628] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 20:51:59.096730 2020] [mpm_prefork:notice] [pid 2628] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 20:51:59.096749 2020] [core:notice] [pid 2628] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 20:54:42.454436 2020] [mpm_prefork:notice] [pid 2628] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 20:54:42.519148 2020] [mpm_prefork:notice] [pid 2628] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 20:54:42.519164 2020] [core:notice] [pid 2628] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 20:54:42.903384 2020] [mpm_prefork:notice] [pid 2628] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 20:54:42.949778 2020] [mpm_prefork:notice] [pid 2628] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 20:54:42.949797 2020] [core:notice] [pid 2628] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 20:55:42.365591 2020] [mpm_prefork:notice] [pid 2628] AH00169: caught SIGTERM, shutting down
+[Mon Feb 24 20:56:10.042425 2020] [mpm_prefork:notice] [pid 1014] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 20:56:10.075482 2020] [core:notice] [pid 1014] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 21:52:04.652977 2020] [mpm_prefork:notice] [pid 1014] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 21:52:04.731443 2020] [mpm_prefork:notice] [pid 1014] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 21:52:04.731459 2020] [core:notice] [pid 1014] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 21:52:05.114504 2020] [mpm_prefork:notice] [pid 1014] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 21:52:05.164623 2020] [mpm_prefork:notice] [pid 1014] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 21:52:05.164640 2020] [core:notice] [pid 1014] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 21:52:06.474150 2020] [mpm_prefork:notice] [pid 1014] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 21:52:06.542118 2020] [mpm_prefork:notice] [pid 1014] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 21:52:06.542138 2020] [core:notice] [pid 1014] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 21:52:59.552940 2020] [mpm_prefork:notice] [pid 1014] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 21:52:59.598959 2020] [mpm_prefork:notice] [pid 1014] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 21:52:59.598975 2020] [core:notice] [pid 1014] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 21:52:59.984196 2020] [mpm_prefork:notice] [pid 1014] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 24 21:53:00.040736 2020] [mpm_prefork:notice] [pid 1014] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 21:53:00.040764 2020] [core:notice] [pid 1014] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 21:53:00.044748 2020] [core:error] [pid 1014] AH00546: no record of generation 0 of exiting child 3147
+[Mon Feb 24 21:53:00.044776 2020] [core:error] [pid 1014] AH00546: no record of generation 0 of exiting child 3148
+[Mon Feb 24 21:53:00.044782 2020] [core:error] [pid 1014] AH00546: no record of generation 0 of exiting child 3149
+[Mon Feb 24 21:55:03.733608 2020] [mpm_prefork:notice] [pid 1014] AH00169: caught SIGTERM, shutting down
+[Mon Feb 24 21:55:32.055249 2020] [mpm_prefork:notice] [pid 1091] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 21:55:32.079979 2020] [core:notice] [pid 1091] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 22:40:10.216891 2020] [php7:error] [pid 1144] [client 103.9.76.178:61490] script '/var/www/html/elrekt.php' not found or unable to stat
+[Mon Feb 24 23:09:50.635797 2020] [mpm_prefork:notice] [pid 1091] AH00169: caught SIGTERM, shutting down
+[Mon Feb 24 23:10:40.445423 2020] [mpm_prefork:notice] [pid 1020] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 23:10:40.447514 2020] [core:notice] [pid 1020] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 24 23:12:43.492039 2020] [mpm_prefork:notice] [pid 1020] AH00169: caught SIGTERM, shutting down
+[Mon Feb 24 23:13:11.376499 2020] [mpm_prefork:notice] [pid 1033] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 24 23:13:11.398519 2020] [core:notice] [pid 1033] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:07:23.420033 2020] [mpm_prefork:notice] [pid 1033] AH00169: caught SIGTERM, shutting down
+[Tue Feb 25 00:07:50.742472 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:07:50.755039 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:34:13.686987 2020] [mpm_prefork:notice] [pid 1051] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 25 00:34:13.747612 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:34:13.747626 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:34:14.164667 2020] [mpm_prefork:notice] [pid 1051] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 25 00:34:14.214303 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:34:14.214316 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:34:15.497342 2020] [mpm_prefork:notice] [pid 1051] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 25 00:34:15.551191 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:34:15.551206 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:39:40.779047 2020] [mpm_prefork:notice] [pid 1051] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 25 00:39:40.830212 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:39:40.830227 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:39:41.242982 2020] [mpm_prefork:notice] [pid 1051] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 25 00:39:41.277507 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:39:41.277524 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 00:40:00.189629 2020] [mpm_prefork:notice] [pid 1051] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 25 00:40:00.237050 2020] [mpm_prefork:notice] [pid 1051] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 00:40:00.237065 2020] [core:notice] [pid 1051] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 01:07:38.202253 2020] [php7:error] [pid 3312] [client 103.233.83.51:62470] script '/var/www/html/wp-content/themes/pagse.php' not found or unable to stat
+[Tue Feb 25 01:07:38.459950 2020] [php7:error] [pid 3312] [client 103.233.83.51:62470] script '/var/www/html/wp-admin/includes/theme-old.php' not found or unable to stat
+[Tue Feb 25 01:07:39.459125 2020] [php7:error] [pid 3312] [client 103.233.83.51:62470] script '/var/www/html/wp-content/themes/popn.php' not found or unable to stat
+[Tue Feb 25 01:07:45.826703 2020] [php7:error] [pid 3318] [client 103.233.83.51:62674] script '/var/www/html/popn.php' not found or unable to stat
+[Tue Feb 25 01:13:14.199777 2020] [php7:error] [pid 3313] [client 103.233.83.51:63985] script '/var/www/html/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/screenshots/class-wp-filesystemss.php' not found or unable to stat
+[Tue Feb 25 01:13:14.985324 2020] [php7:error] [pid 3400] [client 103.233.83.51:63987] script '/var/www/html/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/screenshots/class-wp-filesystemss.php' not found or unable to stat
+[Tue Feb 25 01:13:24.522785 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/really-simple-ssl/assets/img.php' not found or unable to stat
+[Tue Feb 25 01:13:25.302878 2020] [php7:error] [pid 3318] [client 103.233.83.51:64008] script '/var/www/html/wp-content/plugins/really-simple-ssl/assets/img.php' not found or unable to stat
+[Tue Feb 25 01:13:27.553144 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/minis.php' not found or unable to stat
+[Tue Feb 25 01:13:28.165140 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/minis.php' not found or unable to stat
+[Tue Feb 25 01:13:30.553507 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/classes/wadadaw.php' not found or unable to stat
+[Tue Feb 25 01:13:30.976382 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/classes/wadadaw.php' not found or unable to stat
+[Tue Feb 25 01:13:33.370167 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/procedural_api/indeh.php' not found or unable to stat
+[Tue Feb 25 01:13:33.738889 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/procedural_api/indeh.php' not found or unable to stat
+[Tue Feb 25 01:13:36.182643 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/deprecated/k.php' not found or unable to stat
+[Tue Feb 25 01:13:36.537208 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/deprecated/k.php' not found or unable to stat
+[Tue Feb 25 01:13:38.863315 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/processes/images.php' not found or unable to stat
+[Tue Feb 25 01:13:39.282306 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/processes/images.php' not found or unable to stat
+[Tue Feb 25 01:13:41.594741 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/admin/css/doc.php' not found or unable to stat
+[Tue Feb 25 01:13:41.947635 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/admin/css/doc.php' not found or unable to stat
+[Tue Feb 25 01:13:44.168275 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/bootstrap-modals/wp-info.php' not found or unable to stat
+[Tue Feb 25 01:13:44.526923 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/bootstrap-modals/wp-info.php' not found or unable to stat
+[Tue Feb 25 01:13:46.777853 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-admin/css/colors/coffee/wp-crons.php' not found or unable to stat
+[Tue Feb 25 01:13:47.294172 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-admin/css/colors/coffee/wp-crons.php' not found or unable to stat
+[Tue Feb 25 01:13:49.519245 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/schedules/tw.php' not found or unable to stat
+[Tue Feb 25 01:13:49.924837 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/schedules/tw.php' not found or unable to stat
+[Tue Feb 25 01:13:55.167322 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/check.php' not found or unable to stat
+[Tue Feb 25 01:13:55.532929 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/check.php' not found or unable to stat
+[Tue Feb 25 01:13:57.973505 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/css/default.php' not found or unable to stat
+[Tue Feb 25 01:13:58.375922 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/css/default.php' not found or unable to stat
+[Tue Feb 25 01:14:00.738939 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/bootstrap-modals/inc/wp-content.php' not found or unable to stat
+[Tue Feb 25 01:14:01.254982 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/bootstrap-modals/inc/wp-content.php' not found or unable to stat
+[Tue Feb 25 01:14:03.519270 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-admin/user/accordion.php' not found or unable to stat
+[Tue Feb 25 01:14:03.874829 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-admin/user/accordion.php' not found or unable to stat
+[Tue Feb 25 01:14:06.583526 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-admin/css/colors/sunrise/custom.php' not found or unable to stat
+[Tue Feb 25 01:14:07.008988 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-admin/css/colors/sunrise/custom.php' not found or unable to stat
+[Tue Feb 25 01:14:09.613307 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-admin/css/years.php' not found or unable to stat
+[Tue Feb 25 01:14:09.969327 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-admin/css/years.php' not found or unable to stat
+[Tue Feb 25 01:14:15.320125 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/jobstore/class-view-load.php' not found or unable to stat
+[Tue Feb 25 01:14:15.674509 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/jobstore/class-view-load.php' not found or unable to stat
+[Tue Feb 25 01:14:18.112784 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/partials/ups.php' not found or unable to stat
+[Tue Feb 25 01:14:18.549454 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/partials/ups.php' not found or unable to stat
+[Tue Feb 25 01:14:20.909149 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/.idea/media-admin.php' not found or unable to stat
+[Tue Feb 25 01:14:21.274260 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/.idea/media-admin.php' not found or unable to stat
+[Tue Feb 25 01:14:23.535452 2020] [php7:error] [pid 3312] [client 103.233.83.51:64004] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/logging/wp-verson.php' not found or unable to stat
+[Tue Feb 25 01:14:23.893744 2020] [php7:error] [pid 3401] [client 103.233.83.51:64014] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/logging/wp-verson.php' not found or unable to stat
+[Tue Feb 25 01:21:17.854958 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/processes/images.php' not found or unable to stat
+[Tue Feb 25 01:21:20.394542 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/check.php' not found or unable to stat
+[Tue Feb 25 01:21:22.816867 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/deprecated/k.php' not found or unable to stat
+[Tue Feb 25 01:21:24.484053 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/jobstore/class-view-load.php' not found or unable to stat
+[Tue Feb 25 01:21:26.389893 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/logging/wp-verson.php' not found or unable to stat
+[Tue Feb 25 01:21:28.085582 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/procedural_api/indeh.php' not found or unable to stat
+[Tue Feb 25 01:21:30.186984 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/schedules/tw.php' not found or unable to stat
+[Tue Feb 25 01:21:31.994406 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/classes/wadadaw.php' not found or unable to stat
+[Tue Feb 25 01:21:34.935917 2020] [php7:error] [pid 3317] [client 103.233.83.51:64335] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/minis.php' not found or unable to stat
+[Tue Feb 25 01:21:45.745993 2020] [php7:error] [pid 3318] [client 103.233.83.51:63047] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/partials/ups.php' not found or unable to stat
+[Tue Feb 25 01:21:53.246583 2020] [php7:error] [pid 3314] [client 103.233.83.51:63193] script '/var/www/html/wp-content/plugins/really-simple-ssl/assets/img.php' not found or unable to stat
+[Tue Feb 25 01:22:53.226627 2020] [php7:error] [pid 3317] [client 103.233.83.51:64068] script '/var/www/html/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/screenshots/class-wp-filesystemss.php' not found or unable to stat
+[Tue Feb 25 01:22:55.389149 2020] [php7:error] [pid 3317] [client 103.233.83.51:64068] script '/var/www/html/wp-includes/rss-url.php' not found or unable to stat
+[Tue Feb 25 01:22:58.874597 2020] [php7:error] [pid 3400] [client 103.233.83.51:64142] script '/var/www/html/pig.php' not found or unable to stat
+[Tue Feb 25 01:25:09.927710 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/pig.php' not found or unable to stat
+[Tue Feb 25 01:25:13.315140 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/css/colors/coffee/wp-crons.php' not found or unable to stat
+[Tue Feb 25 01:25:17.059591 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/css/colors/sunrise/custom.php' not found or unable to stat
+[Tue Feb 25 01:25:20.847163 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/css/years.php' not found or unable to stat
+[Tue Feb 25 01:25:24.662447 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/includes/theme-old.php' not found or unable to stat
+[Tue Feb 25 01:25:28.416289 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/network/cllsas.php' not found or unable to stat
+[Tue Feb 25 01:25:31.328262 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/options-style.php' not found or unable to stat
+[Tue Feb 25 01:25:34.858517 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-admin/user/accordion.php' not found or unable to stat
+[Tue Feb 25 01:25:42.058426 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-content/indexs.php' not found or unable to stat
+[Tue Feb 25 01:26:14.855705 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-content/plugins/bootstrap-modals/inc/wp-content.php' not found or unable to stat
+[Tue Feb 25 01:26:18.643071 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-content/plugins/bootstrap-modals/wp-info.php' not found or unable to stat
+[Tue Feb 25 01:26:22.914402 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/.idea/media-admin.php' not found or unable to stat
+[Tue Feb 25 01:26:26.697876 2020] [php7:error] [pid 3318] [client 103.233.83.51:63566] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/admin/css/doc.php' not found or unable to stat
+[Tue Feb 25 01:59:34.794955 2020] [mpm_prefork:notice] [pid 1051] AH00169: caught SIGTERM, shutting down
+[Tue Feb 25 02:00:02.856056 2020] [mpm_prefork:notice] [pid 1012] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 02:00:02.863711 2020] [core:notice] [pid 1012] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 02:17:32.075937 2020] [php7:error] [pid 1102] [client 103.233.83.51:64192] script '/var/www/html/wp-admin/network/cllsas.php' not found or unable to stat
+[Tue Feb 25 02:17:33.332019 2020] [php7:error] [pid 1102] [client 103.233.83.51:64192] script '/var/www/html/wp-admin/network/cllsas.php' not found or unable to stat
+[Tue Feb 25 03:15:21.561171 2020] [mpm_prefork:notice] [pid 1012] AH00169: caught SIGTERM, shutting down
+[Tue Feb 25 03:15:48.906224 2020] [mpm_prefork:notice] [pid 1017] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 03:15:48.924015 2020] [core:notice] [pid 1017] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 03:18:36.053881 2020] [php7:error] [pid 1069] [client 103.233.83.51:62933] script '/var/www/html/wp-sgin.php' not found or unable to stat
+[Tue Feb 25 03:24:06.430720 2020] [mpm_prefork:notice] [pid 1017] AH00169: caught SIGTERM, shutting down
+[Tue Feb 25 03:24:27.174200 2020] [mpm_prefork:notice] [pid 1038] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 03:24:27.207032 2020] [core:notice] [pid 1038] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 07:35:55.982454 2020] [mpm_prefork:notice] [pid 1038] AH00169: caught SIGTERM, shutting down
+[Tue Feb 25 07:36:23.749455 2020] [mpm_prefork:notice] [pid 1009] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 25 07:36:23.761737 2020] [core:notice] [pid 1009] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 25 09:00:42.477817 2020] [php7:error] [pid 1089] [client 169.57.0.140:38952] script '/var/www/html/wp-content/plugins/bootstrap-modals/css/data.php' not found or unable to stat
+[Tue Feb 25 09:24:30.246325 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/processes/images.php' not found or unable to stat
+[Tue Feb 25 09:24:33.485873 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/check.php' not found or unable to stat
+[Tue Feb 25 09:24:35.774773 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/deprecated/k.php' not found or unable to stat
+[Tue Feb 25 09:24:37.396218 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/jobstore/class-view-load.php' not found or unable to stat
+[Tue Feb 25 09:24:39.145826 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/logging/wp-verson.php' not found or unable to stat
+[Tue Feb 25 09:24:41.552177 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/procedural_api/indeh.php' not found or unable to stat
+[Tue Feb 25 09:24:44.213067 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/tests/phpunit/schedules/tw.php' not found or unable to stat
+[Tue Feb 25 09:24:46.820156 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/classes/wadadaw.php' not found or unable to stat
+[Tue Feb 25 09:24:48.859103 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/queue/minis.php' not found or unable to stat
+[Tue Feb 25 09:24:50.804437 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/css/default.php' not found or unable to stat
+[Tue Feb 25 09:24:52.808761 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/mailchimp-for-woocommerce/public/partials/ups.php' not found or unable to stat
+[Tue Feb 25 09:24:54.352751 2020] [php7:error] [pid 1085] [client 103.233.82.25:61564] script '/var/www/html/wp-content/plugins/really-simple-ssl/assets/img.php' not found or unable to stat
